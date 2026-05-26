@@ -1,3 +1,8 @@
+---
+layout: default
+title: Tina Li
+---
+
 # Tina Li
 
 ORIE student at Cornell University.
