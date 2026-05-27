@@ -79,8 +79,8 @@
 .modal {
   display: none;
   position: fixed;
-  z-index: 999;
-  padding-top: 60px;
+  z-index: 9999;
+  padding-top: 50px;
   left: 0;
   top: 0;
   width: 100%;
@@ -92,17 +92,22 @@
 .modal-content {
   display: block;
   margin: auto;
-  max-width: 85%;
-  max-height: 85%;
+  max-width: 90%;
+  max-height: 85vh;
   border-radius: 8px;
 }
 
-.close {
+#modal-close {
   position: absolute;
   top: 20px;
   right: 40px;
   color: white;
-  font-size: 40px;
+  font-size: 42px;
   font-weight: bold;
   cursor: pointer;
 }
+
+.zoomable {
+  cursor: pointer;
+}
+
