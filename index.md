@@ -56,6 +56,24 @@ ORIE student at Cornell University.
 
 </div>
 
+<div id="image-modal" class="modal">
+  <span class="close">&times;</span>
+  <img class="modal-content" id="modal-image">
+</div>
+
+<script>
+document.querySelectorAll('.project-card img').forEach(img => {
+  img.onclick = function () {
+    document.getElementById("image-modal").style.display = "block";
+    document.getElementById("modal-image").src = this.src;
+  }
+});
+
+document.querySelector(".close").onclick = function () {
+  document.getElementById("image-modal").style.display = "none";
+}
+</script>
+
 ## Contact
 - LinkedIn
 - GitHub
