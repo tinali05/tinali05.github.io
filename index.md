@@ -11,7 +11,7 @@ ORIE student at Cornell University.
 
 <div class="about-section">
   <div class="about-photo">
-    <img src="assets/headshot.jpeg" alt="Tina Li headshot">
+    <img src="assets/headshot.JPEG" alt="Tina Li headshot">
   </div>
 
   <div class="about-text">
