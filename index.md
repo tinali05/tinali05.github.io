@@ -37,19 +37,19 @@ ORIE student at Cornell University.
 <div class="projects-grid">
 
   <div class="project-card">
-    <img src="assets/portfolio-risk-scanner.png" alt="PortfolioRiskScanner">
+    <img class="zoomable" src="assets/portfolio-risk-scanner.png" alt="PortfolioRiskScanner">
     <h3>PortfolioRiskScanner</h3>
     <p>Risk-focused stock recommendation system using TF-IDF, SVD, sentiment, and news-based risk signals.</p>
   </div>
 
   <div class="project-card">
-    <img src="assets/cbs-routing.png" alt="CBS Location-Routing Research">
+    <img class="zoomable" src="assets/cbs-routing.png" alt="CBS Location-Routing Research">
     <h3>CBS Location-Routing Research</h3>
     <p>Optimized facility locations and vehicle routes for container-based sanitation implementation in Kisumu, Kenya.</p>
   </div>
 
   <div class="project-card">
-    <img src="assets/eia.png" alt="Engineers in Action">
+    <img class="zoomable" src="assets/eia.png" alt="Engineers in Action">
     <h3>Engineers in Action</h3>
     <p>Infrastructure-focused engineering work supporting pedestrian bridges and WASH systems in Eswatini.</p>
   </div>
@@ -57,21 +57,33 @@ ORIE student at Cornell University.
 </div>
 
 <div id="image-modal" class="modal">
-  <span class="close">&times;</span>
-  <img class="modal-content" id="modal-image">
+  <span id="modal-close">&times;</span>
+  <img id="modal-image" class="modal-content">
 </div>
 
 <script>
-document.querySelectorAll('.project-card img').forEach(img => {
-  img.onclick = function () {
-    document.getElementById("image-modal").style.display = "block";
-    document.getElementById("modal-image").src = this.src;
-  }
-});
+window.addEventListener("load", function () {
+  const modal = document.getElementById("image-modal");
+  const modalImage = document.getElementById("modal-image");
+  const closeButton = document.getElementById("modal-close");
 
-document.querySelector(".close").onclick = function () {
-  document.getElementById("image-modal").style.display = "none";
-}
+  document.querySelectorAll(".zoomable").forEach(function (img) {
+    img.addEventListener("click", function () {
+      modal.style.display = "block";
+      modalImage.src = img.src;
+    });
+  });
+
+  closeButton.addEventListener("click", function () {
+    modal.style.display = "none";
+  });
+
+  modal.addEventListener("click", function (event) {
+    if (event.target === modal) {
+      modal.style.display = "none";
+    }
+  });
+});
 </script>
 
 ## Contact
