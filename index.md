@@ -49,9 +49,15 @@ ORIE student at Cornell University.
   </div>
 
   <div class="project-card">
-    <img class="zoomable" src="assets/eia.png" alt="Engineers in Action">
-    <h3>Engineers in Action</h3>
-    <p>Infrastructure-focused engineering work supporting pedestrian bridges and WASH systems in Eswatini.</p>
+    <img class="zoomable" src="assets/emmissions.png" alt="CO2 Emmissions Analysis">
+    <h3>Vehicle CO2 Emmisions Analysis</h3>
+    <p>Exploratory data analysis to determine key predictors of vehicle CO2 emmissions.</p>
+  </div>
+
+  <div class="project-card">
+    <img class="zoomable" src="assets/camlchef.png" alt="CamlChef">
+    <h3>CamlChef</h3>
+    <p>Interactive cooking game with customization and tracking features, coded using OCaml.</p>
   </div>
 
 </div>
