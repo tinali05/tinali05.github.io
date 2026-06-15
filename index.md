@@ -49,9 +49,9 @@ ORIE student at Cornell University.
   </div>
 
   <div class="project-card">
-    <img class="zoomable" src="assets/emmissions.png" alt="CO2 Emmissions Analysis">
-    <h3>Vehicle CO2 Emmisions Analysis</h3>
-    <p>Exploratory data analysis to determine key predictors of vehicle CO2 emmissions.</p>
+    <img class="zoomable" src="assets/emmissions.png" alt="CO2 Emissions Analysis">
+    <h3>Vehicle CO2 Emissions Analysis</h3>
+    <p>Exploratory data analysis to determine key predictors of vehicle CO2 emissions.</p>
   </div>
 
   <div class="project-card">
@@ -94,8 +94,6 @@ window.addEventListener("load", function () {
 
 ## Contact
 
-<p class="contact-links">
-  <a href="https://www.linkedin.com/in/tina-li-a46087235/" target="_blank">LinkedIn</a> |
-  <a href="https://github.com/tml228" target="_blank">GitHub</a> |
-  <a href="mailto:tinamyli@live.com">Email</a>
-</p>
+- [LinkedIn](https://www.linkedin.com/in/tina-li-a46087235/)
+- [GitHub](https://github.com/tml228)
+- [Email](mailto:tinamyli@live.com)
