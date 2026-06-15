@@ -93,6 +93,9 @@ window.addEventListener("load", function () {
 </script>
 
 ## Contact
-- LinkedIn
-- GitHub
-- Email
+
+<p class="contact-links">
+  <a href="https://www.linkedin.com/in/tina-li-a46087235/" target="_blank">LinkedIn</a> |
+  <a href="https://github.com/tml228" target="_blank">GitHub</a> |
+  <a href="mailto:tinamyli@live.com">Email</a>
+</p>
