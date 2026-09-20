@@ -35,24 +35,28 @@ title: Tina Li
     <img class="zoomable" src="assets/portfolio-risk-scanner.png" alt="PortfolioRiskScanner">
     <h3>PortfolioRiskScanner</h3>
     <p>Risk-focused stock recommendation system using TF-IDF, SVD, sentiment, and news-based risk signals.</p>
+    <a href="https://github.com/tinali05/PortfolioRiskScanner" target="_blank">View on GitHub</a>
   </div>
 
   <div class="project-card">
     <img class="zoomable" src="assets/cbs-routing.png" alt="CBS Location-Routing Research">
     <h3>CBS Location-Routing Research</h3>
     <p>Optimized facility locations and vehicle routes for container-based sanitation implementation in Kisumu, Kenya.</p>
+    <a href="https://github.com/tinali05/waste-recycle-spr26" target="_blank">View on GitHub</a>
   </div>
 
   <div class="project-card">
     <img class="zoomable" src="assets/emmissions.png" alt="CO2 Emissions Analysis">
     <h3>Vehicle CO2 Emissions Analysis</h3>
     <p>Exploratory data analysis to determine key predictors of vehicle CO2 emissions.</p>
+    <a href="https://github.com/tinali05/co2-emissions-analysis" target="_blank">View on GitHub</a>
   </div>
 
   <div class="project-card">
     <img class="zoomable" src="assets/camlchef.png" alt="CamlChef">
     <h3>CamlChef</h3>
     <p>Interactive cooking game with customization and tracking features, coded using OCaml.</p>
+    <a href="https://www.youtube.com/watch?v=NZ8mXh65K4U" target="_blank">Watch Demo</a>
   </div>
 
 </div>
