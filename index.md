@@ -12,7 +12,7 @@ title: Tina Li
 
   <div class="about-text">
     <p>
-      I am a driven and curious undergraduate student at Cornell University studying Operations Research and Information Engineering (ORIE)       and Computer Science with an expected graduation of December 2026. I am passionate about translating data into actionable insights,         as well as the intersection between data analytics and finance.
+      I am a driven and curious undergraduate student at Cornell University studying Operations Research and Information Engineering (ORIE)       and Computer Science with an expected graduation of December 2026. I am passionate about translating data into actionable insights          and I am interested in the intersection between data analytics and finance.
     </p>
 
     <p>
@@ -22,9 +22,10 @@ title: Tina Li
 </div>
 
 ## Experience
-- Cboe Regulatory Intern (Incoming)
-- Cornell Engineers in Action
+- Evallos Labs: Business Analytics Intern
+- Cboe Global Markets: Regulatory Intern
 - CBS Routing & Optimization Research
+- Leadership positions in numerous on-campus student organizations
 
 ## Projects
 
