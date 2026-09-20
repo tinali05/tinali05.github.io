@@ -5,7 +5,9 @@ title: Tina Li
 
 # Tina Li
 
-ORIE student at Cornell University.
+I am a driven and curious undergraduate student at Cornell University studying Operations Research and Information Engineering (ORIE) and Computer Science with an expected graduation of December 2026. I am passionate about translating data into actionable insights, as well as the intersection between data analytics and finance.
+
+If you asked the people closest to me, they would describe me as “their biggest hypeman.” I pride myself on showing genuine care toward the people I work with and being a dependable person who’s always true to their word. Whether that means celebrating a friend’s successes, or stepping up when no one else in the team can, I try to be someone others know they can count on.
 
 ## About Me
 
@@ -94,6 +96,6 @@ window.addEventListener("load", function () {
 
 ## Contact
 
-- [LinkedIn](https://www.linkedin.com/in/tina-li-a46087235/)
+- [LinkedIn](https://www.linkedin.com/in/tina-m-li/)
 - [GitHub](https://github.com/tml228)
 - [Email](mailto:tinamyli@live.com)
