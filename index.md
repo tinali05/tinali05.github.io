@@ -94,5 +94,5 @@ window.addEventListener("load", function () {
 ## Contact
 
 - [LinkedIn](https://www.linkedin.com/in/tina-m-li/)
-- [GitHub](https://github.com/tml228)
+- [GitHub](https://github.com/tinali05)
 - [Email](mailto:tinamyli@live.com)
