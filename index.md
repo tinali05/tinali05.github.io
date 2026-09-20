@@ -3,13 +3,7 @@ layout: default
 title: Tina Li
 ---
 
-# Tina Li
-
-I am a driven and curious undergraduate student at Cornell University studying Operations Research and Information Engineering (ORIE) and Computer Science with an expected graduation of December 2026. I am passionate about translating data into actionable insights, as well as the intersection between data analytics and finance.
-
-If you asked the people closest to me, they would describe me as “their biggest hypeman.” I pride myself on showing genuine care toward the people I work with and being a dependable person who’s always true to their word. Whether that means celebrating a friend’s successes, or stepping up when no one else in the team can, I try to be someone others know they can count on.
-
-## About Me
+# About Me
 
 <div class="about-section">
   <div class="about-photo">
@@ -18,13 +12,11 @@ If you asked the people closest to me, they would describe me as “their bigges
 
   <div class="about-text">
     <p>
-      I am an Operations Research and Information Engineering student at Cornell University
-      interested in data science, analytics, optimization, and engineering for social impact.
+      I am a driven and curious undergraduate student at Cornell University studying Operations Research and Information Engineering (ORIE)       and Computer Science with an expected graduation of December 2026. I am passionate about translating data into actionable insights,         as well as the intersection between data analytics and finance.
     </p>
 
     <p>
-      I have experience in portfolio risk analysis, location-routing optimization, and
-      infrastructure-focused engineering work through Cornell Engineers in Action.
+      If you asked the people closest to me, they would describe me as “their biggest hypeman.” I pride myself on showing genuine care            toward the people I work with and being a dependable person who’s always true to their word. Whether that means celebrating a               friend’s successes, or stepping up when no one else in the team can, I try to be someone others know they can count on.
     </p>
   </div>
 </div>
