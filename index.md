@@ -12,7 +12,7 @@ title: Tina Li
 
   <div class="about-text">
     <p>
-      I am a driven and curious undergraduate student at Cornell University studying Operations Research and Information Engineering (ORIE)       and Computer Science with an expected graduation of December 2026. I am passionate about translating data into actionable insights          and I am interested in the intersection between data analytics and finance.
+      I am a driven and curious undergraduate student at Cornell University studying Operations Research and Information Engineering (ORIE)       and minoring in Computer Science with an expected graduation of December 2026. I am passionate about translating data into actionable       insights and I am interested in the intersection between data analytics and finance.
     </p>
 
     <p>
